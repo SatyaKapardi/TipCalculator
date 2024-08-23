@@ -1,0 +1,1 @@
+ A simple iphone application to calculate the total tip amount
